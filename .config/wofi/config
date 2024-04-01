@@ -1,0 +1,11 @@
+show=drun
+width=750
+height=400
+always_parse_args=true
+show_all=true
+print_command=true
+insensitive=true
+prompt= Hmm, what do you want to run?
+term=kitty
+allow_images=true
+allow_markup=true
